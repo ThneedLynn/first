@@ -1,7 +1,6 @@
 import java.util.*;
 
 public static void main(String[] args) {
-	System.out.println("hello world");
-	int a;
+	System.out.println("hello world!!!");
 
 }
